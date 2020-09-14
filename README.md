@@ -28,6 +28,9 @@ This will add a layer of bass in the file `No_roots.mp3` and save it as `No_root
 
 You can change the `accentuate_db` and the `attenuate_db` parameter to your liking. Do not increase `accentuate_db` too much as it makes it worse:P
 
+### Running on your own songs:
+Make sure that the `your_song.mp3` file is in the `Bass-Treble-Booster` folder. Then go to `BassBooster.py` and change the filepath [here](https://github.com/nsidn98/Bass-Treble-Booster/blob/fd10606e079553ae0b20c7c91ddc0dbe7c978dac/BassBooster.py#L50) as `your_song.py`. Change the `accentuate_db` and `attenuate_db` as per your liking and run the file.
+
 ## Recommendations to try out with bass boosting:
 * [Strobe (Sparkee Remix)](https://www.youtube.com/watch?v=cytyAgu9-bA&ab_channel=Davie504) played by Davie504
 * [The Happiest Days of Our Lives](https://www.youtube.com/watch?v=VyTarjUjNMQ) by Pink Floyd
